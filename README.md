@@ -1,2 +1,2 @@
 # MovieSearchWeb
-Search your fav movie
+This is basic api for searching movie.
